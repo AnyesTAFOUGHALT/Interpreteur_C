@@ -1,0 +1,30 @@
+
+
+aaaa=897676764344676545687876565
+aaaa= aaaa * aaaa
+print aaaa
+
+aaaa= aaaa - 7867656443555498966543
+b= -98987676565
+
+print jhqsbdqjgvbdqjsdbjqkhbdfkbhdjhbjb44
+
+
+
+b = 3 * b
+print aaaa
+
+aaaa=aaaa - b
+
+print aaaa
+aaaa=aaaa + b
+print aaaa
+
+print b
+c=a * 0
+
+print c
+
+
+d=s - 2
+print d
